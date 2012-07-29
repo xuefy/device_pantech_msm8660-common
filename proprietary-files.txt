@@ -1,0 +1,103 @@
+# Bins
+bin/bridgemgrd
+bin/ds_fmc_appd
+bin/mpdecision
+bin/port-bridge
+bin/usbhub
+bin/usbhub_init
+
+# Audio
+lib/libacdbloader.so
+lib/libacdbmapper.so
+lib/libaudcal.so
+lib/libaudioalsa.so
+lib/libaudioparsers.so
+
+# mmparser extended
+lib/libmmosal.so
+lib/libmmparser.so
+lib/libmmparser_divxdrmlib.so
+
+# Graphics
+lib/egl/eglsubAndroid.so
+lib/egl/libEGL_adreno200.so
+lib/egl/libGLESv1_CM_adreno200.so
+lib/egl/libGLESv2_adreno200.so
+lib/egl/libq3dtools_adreno200.so
+lib/libC2D2.so
+lib/libgsl.so
+lib/libOpenVG.so
+
+# Radio
+bin/ks
+bin/netmgrd
+bin/qcks
+bin/qmiproxy
+bin/qmuxd
+bin/rild
+bin/rmt_storage
+lib/libdsi_netctrl.so
+lib/libdsutils.so
+lib/libidl.so
+lib/libnetmgr.so
+lib/libqdp.so
+lib/libqmi.so
+lib/libqmiservices.so
+lib/libqueue.so
+lib/libreference-ril.so
+lib/libril.so
+lib/libril-qc-qmi-1.so
+lib/libril-qcril-hook-oem.so
+lib/libuca-ril.so
+lib/libuca-ril-qmi.so
+lib/libtime_genoff.so
+
+# GPS
+lib/libcommondefs.so
+lib/libloc_api-rpc-qc.so
+lib/libloc_ext.so
+lib/liboncrpc.so
+
+# Sensors
+lib/hw/sensors.msm8660.so
+lib/libmpl.so
+lib/libmlplatform.so
+lib/libmllite.so
+lib/hw/lights.msm8660.so
+
+# Camera
+lib/libcamera.so
+#lib/libcamera_client.so
+lib/libgemini.so
+lib/libmmipl.so
+lib/libmmjpeg.so
+lib/libmmmpo.so
+lib/libmmstereo.so
+lib/liboemcamera.so
+
+# General
+lib/libdiag.so
+
+# Wi-Fi
+etc/wifi/wpa_supplicant.conf
+etc/wl/bcm4330.bin
+etc/wl/bcm4330_apsta.bin
+etc/wl/bcm4330_mfg.bin
+etc/wl/bcm4330_p2p.bin
+etc/wl/nvram.txt
+etc/wl/nvram_murata_b2_65l.txt
+
+# Firmware
+etc/firmware/cyttsp_8660_ffa.hex
+etc/firmware/cyttsp_8660_fluid_p2.hex
+etc/firmware/cyttsp_8660_fluid_p3.hex
+etc/firmware/dsps_fluid.b00
+etc/firmware/dsps_fluid.b01
+etc/firmware/dsps_fluid.b02
+etc/firmware/dsps_fluid.b03
+etc/firmware/dsps_fluid.mdt
+etc/firmware/leia_pfp_470.fw
+etc/firmware/leia_pm4_470.fw
+etc/firmware/vidc_1080p.fw
+etc/firmware/yamato_pfp.fw
+etc/firmware/yamato_pm4.fw
